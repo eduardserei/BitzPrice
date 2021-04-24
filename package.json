@@ -1,7 +1,10 @@
 {
   "name": "next-study2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bitcoin Price Getter",
+  "repository": {
+    "url": "https://github.com/eduardserei/BitzPrice.git"
+  },
   "main": "index.js",
   "scripts": {
     "dev": "next",
